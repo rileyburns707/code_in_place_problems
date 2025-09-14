@@ -4,7 +4,10 @@ from karel.stanfordkarel import *
 File: MidpointKarel.py
 --------------------
 This program makes Karel find the midpoint of any
-sized world, and place a beeper there.
+sized world, and place a beeper there. If there world 
+is even then they place a beeper on the left side, this 
+is why most intuative solutions don't work or are much
+more complex.
 """
 
 def main():

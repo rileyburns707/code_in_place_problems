@@ -12,11 +12,9 @@ def main():
     Then makes a histogram of the quantity of each
     word.
     """
-    words = load_words_from_file("words.txt")
+    words = load_words_from_file("Other Programs/words.txt")
     word_count_dict = create_dict(words)
     create_histogram(word_count_dict)
-
-
 
 def create_dict(words):
     """
@@ -32,7 +30,6 @@ def create_dict(words):
             word_count_dict[word] += 1
 
     return word_count_dict
-
 
 def create_histogram(word_count_dict):
     """
@@ -76,7 +73,6 @@ def load_words_from_file(filepath):
                 words.append(cleaned_line)
     
     return words
-
 
 if __name__ == '__main__':
     main()

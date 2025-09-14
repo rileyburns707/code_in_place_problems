@@ -1,2 +1,11 @@
-# code_in_place_problems
-Major Code in Place Problems
+# Code in Place Problems
+I recently completed the Code in Place course taught by Stanford. I have heard about it for a little bit and wanted to see what it was about. I was really impressed by the teaching styles of Profesors Chris and Mehran. The way they explained things, their passion for coding, and the simplicity of the Code in Place IDE all made me have a great time doing the course. It did not go over any information that I did not know, but the way they explained things and the process of hearing experts breakdown concepts was so informative I did not mind the review. I ended up completing the whole course in a week and did all of the problems the course required, so I decided to add my favorites on the GitHub page. 
+
+The folders are broken down into 2 main sections, **Karel Programs** and **Other Programs**. **Karel Programs** are a Stanford specifc learning tool to introduce people to coding, and I must say I have never seen a better learing tool that accomplishes that goal. I truly enjoyed doing them and it was such a clever way to learn the basics of algorithms without even knowing. The **Other Programs** are strictly Python programs, but I had a lot of fun thinking of how to do them, especially since I have been primarly doing LeetCode problems. My favorite programs were the "MidpointKarel.py", "DrawPyramid.py", and "MemoryListGame.py".
+
+## Final Thoughts
+This whole repo is just a quick shoutout to how great Code in Place is (link here: https://codeinplace.stanford.edu/), and a quick documentation of the things I liked about it. 
+
+Since the programs were easier to solve and it felt like more of a touch up on the basics, so I took the time to really emphasis a big takeaway I got from the course, writing clea code that your future self will understand. I implemented that takeaway by writing a summary at the top of each program to say what it does as well as summary of what each function does. I also took the time of uploading these files to the repo as an opportunity to engrain the basics of git. I did everything through the terminal in VS Code, and this helped me keep the theme of laying a solid foundation of understand the basic concepts of programming. Because of these reason the program files are all very efficeint and commented throughly. There are also a lot of pushes done in the repo. I wanted to have the process of git add, git commit, and git push be muscle memory, and this felt like a perfect opportunity to make that happen. 
+
+I really encourge everyone do what I did with Code in Place, just start it with no intention of finishing it, and see how far your curiosity takes you!
